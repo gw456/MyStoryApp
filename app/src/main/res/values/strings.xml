@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyStoryApp2</string>
+    <string name="story_photo">Story Photo</string>
+    <string name="account_name">Account Name</string>
+    <string name="date">19/04/2022</string>
+    <string name="main_title">Story</string>
+    <string name="title_login_page">Yuk bagian cerita mu!!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="copyright">© 2021 Dicoding</string>
+    <string name="description">Description.</string>
+    <string name="add">Add</string>
+    <string name="camera_x">Camera</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="logOut">Log Out</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="map">Map</string>
+</resources>
